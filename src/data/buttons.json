@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "id": 0,
+            "name" : "Truth or dare",
+            "url": "/truth-or-dare",
+            "src": "https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20200707185713_ScreenShot20200707at13157PM.png"
+        },
+        {
+            "id": 1,
+            "name" : "Get Would You Rather",
+            "url": "/would-u-rather",
+            "src": "https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20200707185713_ScreenShot20200707at13157PM.png"
+        },
+        {
+            "id": 2,
+            "name" : "Get Never Have I Ever",
+            "url": "/never-have-i-ever",
+            "src": "https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20200707185713_ScreenShot20200707at13157PM.png"
+        },
+        {
+            "id": 3,
+            "name" : "Get Paranoia Question",
+            "url": "/paranoia-question",
+            "src": "https://d1iiooxwdowqwr.cloudfront.net/pub/appsubmissions/20200707185713_ScreenShot20200707at13157PM.png"
+        }
+    ]
+}
