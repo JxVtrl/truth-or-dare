@@ -1,0 +1,29 @@
+{
+    "req": [
+        {
+            "id": 0,
+            "name" : "Get Truth",
+            "url": "https://api.truthordarebot.xyz/v1/truth"
+        },
+        {
+            "id": 1,
+            "name" : "Get Dare",
+            "url": "https://api.truthordarebot.xyz/api/dare"
+        },
+        {
+            "id": 2,
+            "name" : "Get Would You Rather",
+            "url": "https://api.truthordarebot.xyz/api/wyr"
+        },
+        {
+            "id": 3,
+            "name" : "Get Never Have I Ever",
+            "url": "https://api.truthordarebot.xyz/api/nhie"
+        },
+        {
+            "id": 4,
+            "name" : "Get Paranoia Question",
+            "url": "https://api.truthordarebot.xyz/api/paranoia"
+        }
+    ]
+}
